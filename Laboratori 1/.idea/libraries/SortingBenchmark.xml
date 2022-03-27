@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SortingBenchmark">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SortingBenchmark.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
